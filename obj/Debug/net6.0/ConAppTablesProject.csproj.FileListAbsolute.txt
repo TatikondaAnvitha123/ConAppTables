@@ -1,0 +1,14 @@
+C:\Users\anves\source\repos\ConAppTablesProject\ConAppTablesProject\bin\Debug\net6.0\ConAppTablesProject.exe
+C:\Users\anves\source\repos\ConAppTablesProject\ConAppTablesProject\bin\Debug\net6.0\ConAppTablesProject.deps.json
+C:\Users\anves\source\repos\ConAppTablesProject\ConAppTablesProject\bin\Debug\net6.0\ConAppTablesProject.runtimeconfig.json
+C:\Users\anves\source\repos\ConAppTablesProject\ConAppTablesProject\bin\Debug\net6.0\ConAppTablesProject.dll
+C:\Users\anves\source\repos\ConAppTablesProject\ConAppTablesProject\bin\Debug\net6.0\ConAppTablesProject.pdb
+C:\Users\anves\source\repos\ConAppTablesProject\ConAppTablesProject\obj\Debug\net6.0\ConAppTablesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anves\source\repos\ConAppTablesProject\ConAppTablesProject\obj\Debug\net6.0\ConAppTablesProject.AssemblyInfoInputs.cache
+C:\Users\anves\source\repos\ConAppTablesProject\ConAppTablesProject\obj\Debug\net6.0\ConAppTablesProject.AssemblyInfo.cs
+C:\Users\anves\source\repos\ConAppTablesProject\ConAppTablesProject\obj\Debug\net6.0\ConAppTablesProject.csproj.CoreCompileInputs.cache
+C:\Users\anves\source\repos\ConAppTablesProject\ConAppTablesProject\obj\Debug\net6.0\ConAppTablesProject.dll
+C:\Users\anves\source\repos\ConAppTablesProject\ConAppTablesProject\obj\Debug\net6.0\refint\ConAppTablesProject.dll
+C:\Users\anves\source\repos\ConAppTablesProject\ConAppTablesProject\obj\Debug\net6.0\ConAppTablesProject.pdb
+C:\Users\anves\source\repos\ConAppTablesProject\ConAppTablesProject\obj\Debug\net6.0\ConAppTablesProject.genruntimeconfig.cache
+C:\Users\anves\source\repos\ConAppTablesProject\ConAppTablesProject\obj\Debug\net6.0\ref\ConAppTablesProject.dll
